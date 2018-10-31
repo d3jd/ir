@@ -3,15 +3,17 @@
     "version": "0.0.0",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "shims.d.ts",
         "enums.d.ts",
         "ir.cpp",
-        "main.ts"
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "ir.ts"
     ],
     "testFiles": [
         "test.ts"
