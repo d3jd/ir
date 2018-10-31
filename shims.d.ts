@@ -2,7 +2,8 @@
 
 
 
-    //% color="#D063CF" weight=19 icon="\uf1eb"
+    //% color=50 weight=19
+    //% icon="\uf1eb"
 declare namespace IR {
 }
 
