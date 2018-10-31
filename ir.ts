@@ -3,7 +3,7 @@
 /**
  * IR remote
  */
-//% icon="\uf110" weight=5 color=#2699BF
+//% icon="\uf1eb" weight=5 color=#fc5a5a
 namespace IR {
 
   /**
