@@ -47,7 +47,5 @@
     P19 = 0,
     P20 = 30,
     }
-declare namespace IR {
-}
 
 // Auto-generated. Do not edit. Really.

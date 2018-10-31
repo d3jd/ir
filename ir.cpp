@@ -51,9 +51,6 @@ enum class Pins{
     P20= 30
 };
 
-
-//% color=50 weight=19
-//% icon="\uf1eb"
 namespace IR {
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
