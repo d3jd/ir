@@ -43,7 +43,7 @@ namespace IR {
   */
   //% blockId=ir_received_event
   //% block="on |%btn| button pressed"
-  export function onPressEvent(btn: RemoteButton): void {
+  export function onPressEvent(btn: RemoteButton, body:Action): void {
     return
   }
 
