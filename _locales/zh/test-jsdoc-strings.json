@@ -1,0 +1,5 @@
+{
+  "IR": "IR remote",
+  "IR.init": "initialization",
+  "IR.onPressEvent": "button pushed."
+}

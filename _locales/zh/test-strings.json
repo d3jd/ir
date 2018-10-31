@@ -1,0 +1,6 @@
+{
+  "IR.init|block": "连接红外接收器到引脚 %pin",
+  "IR.onPressEvent|block": "当按钮 |%btn| 被按下时",
+  "IR|block": "红外遥控",
+  "{id:category}IR": "红外遥控"
+}

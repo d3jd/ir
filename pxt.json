@@ -1,7 +1,7 @@
 {
     "name": "test",
-    "version": "0.0.2",
-    "description": "",
+    "version": "1.0.0",
+    "description": "第三基地 红外遥控扩展",
     "dependencies": {
         "core": "*"
     },
@@ -13,7 +13,8 @@
         "ReceiverIR.cpp",
         "ReceiverIR.h",
         "RemoteIR.h",
-        "ir.ts"
+        "ir.ts",
+        "_locales/zh/test-strings.json"
     ],
     "testFiles": [
         "test.ts"
