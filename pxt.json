@@ -1,6 +1,6 @@
 {
     "name": "test",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "第三基地 红外遥控扩展",
     "dependencies": {
         "core": "*"
