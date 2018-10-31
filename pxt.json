@@ -8,6 +8,9 @@
     },
     "files": [
         "README.md",
+        "shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
         "main.ts"
     ],
     "testFiles": [
