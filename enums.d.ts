@@ -2,7 +2,7 @@
 
 
     declare const enum RemoteButton {
-    Power = 0x45,
+    开关 = 0x45,
     Menu = 0x46,
     Mute = 0x47,
     Mode = 0x44,
