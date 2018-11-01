@@ -1,5 +1,5 @@
 {
-  "IR": "IR remote",
-  "IR.init": "initialization",
-  "IR.onPressEvent": "button pushed."
+  "IR": "红外遥控",
+  "IR.init": "初始化遥控器",
+  "IR.onPressEvent": "按钮按下"
 }
