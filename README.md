@@ -3,17 +3,9 @@ Third Fundation IR Remote Extension
 
 ![remote control](./ir_remote.png?raw=true "remote control")
 
-## TODO
-
-- [ ] Add a reference for your blocks here
-- [ ] Add "icon.png" image (300x200) in the root folder
-- [ ] Get your package reviewed and approved https://makecode.microbit.org/packages/approval
-
-Read more at https://makecode.microbit.org/packages/build-your-own
-
 ## License
 
-
+此项目使用 MIT 授权许可 - 更多细节查看 [LICENSE.md](LICENSE.md)
 
 ## Supported targets
 
