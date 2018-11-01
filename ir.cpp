@@ -10,7 +10,7 @@ enum class RemoteButton {
     Menu = 0x46,
     Mute = 0x47,
     Mode = 0x44,
-    Backward = 0x43,
+    Return = 0x43,
     OK = 0xd,
     Plus = 0x40,
     Minus = 0x19,
