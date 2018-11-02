@@ -1,6 +1,6 @@
 {
     "name": "ir_remote",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "description": "第三基地 红外遥控扩展",
     "dependencies": {
         "core": "*"
